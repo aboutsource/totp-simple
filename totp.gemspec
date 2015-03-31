@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["support@aboutsource.net"]
   spec.summary       = %q{Generate and validate totp token, see RFC 6238}
   spec.description   = %q{Generate and validate totp token, see RFC 6238. Very simple implementation so far.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/aboutsource/totp-simple"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

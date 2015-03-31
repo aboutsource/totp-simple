@@ -2,6 +2,8 @@
 
 This library provides token generation and verification according to https://tools.ietf.org/html/rfc6238
 
+[![Build Status](https://travis-ci.org/aboutsource/totp-simple.svg?branch=master)](https://travis-ci.org/aboutsource/totp-simple)
+
 ## Installation
 
 Add this line to your application's Gemfile:
